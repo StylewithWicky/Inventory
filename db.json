@@ -1,0 +1,34 @@
+{
+  "Inventory": [
+    {
+      "id": "2",
+      "title": "Cement",
+      "amount": "1000 bags"
+    },
+    {
+      "id": "3",
+      "title": "Ballast",
+      "amount": "1000kg"
+    },
+    {
+      "id": "4",
+      "title": "Limestone",
+      "amount": {}
+    },
+    {
+      "id": "5",
+      "title": "water",
+      "amount": {}
+    },
+    {
+      "id": "6",
+      "title": "Sand",
+      "amount": {}
+    },
+    {
+      "id": "8399",
+      "title": "Paper",
+      "amount": {}
+    }
+  ]
+}
